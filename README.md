@@ -1,6 +1,6 @@
 # Anish Tiwari  
 
-![Doctor Meme](https://your-image-url.com)  
+![Doctor Meme](https://github.com/a27tiwari/a27tiwari/blob/main/Funny_guy.gif)  
 
 ## About Me  
 I am a part-time PhD student specializing in power electronics and hardware design, with a focus on embedded and industrial applications. With over 2 years of relevant industrial and academic experience, I have developed a strong skill set that bridges theoretical knowledge and practical application in the field of electronics.  
