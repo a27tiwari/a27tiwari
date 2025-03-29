@@ -20,8 +20,18 @@ _(Don't worry, I'm a doctor... almost! 🤓)_
 - **Academic Experience**: Engaged in research and development projects related to power electronics as part of my PhD studies.  
 
 ## Links  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anish-tiwari-2847b2b7/)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=dAa5zQsAAAAJ&hl=en&oi=ao)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-tiwari-2847b2b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=dAa5zQsAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0000-0003-1624-9153">
+    <img src="https://img.shields.io/badge/ORCID-21a500?logo=orcid&logoColor=white&style=for-the-badge" alt="ORCID">
+  </a>
+</p>
 
 ## Contact  
 Feel free to reach out to me through my LinkedIn profile or via email for collaboration, inquiries, or discussions related to power electronics and hardware design.
